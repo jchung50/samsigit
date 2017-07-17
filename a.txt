@@ -1,6 +1,10 @@
 
 this is same test text
 
-a+b=d
-c + d =e
-new one!
+
+another line of text
+
+a + b + c = d
+
+
+alternate history: neat!
